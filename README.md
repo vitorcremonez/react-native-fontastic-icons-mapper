@@ -1,9 +1,11 @@
-<div align="left">
-    <img src="https://i.imgur.com/IcMyFPB.png" width="600"/>
-</div>
+
 
 
 # React Native Fontastic Mapper
+
+<div align="left">
+    <img src="https://i.imgur.com/g4Rt85m.png" width="600"/>
+</div>
 
 If you trying to integrate a react native project with a Fontastic icons font you probably having issue mapping the name of icon classes. 
 
