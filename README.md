@@ -1,3 +1,8 @@
+<div align="center">
+    <img src="https://i.imgur.com/IcMyFPB.png" width="400"/>
+</div>
+
+
 # React Native Fontastic Mapper
 
 If you trying to integrate a react native project with a Fontastic icons font you probably having issue mapping the name of icon classes. 
@@ -20,11 +25,11 @@ To this:
 <Icon name="car"/>
 ```
 
-
 ## Usage
 
-Download you fontastic icons in fontastic website:
 
+
+Download you fontastic icons in fontastic website:
 ```
 Download...
 ```
@@ -53,6 +58,21 @@ Link your font to `Android` and `iOS` projects configuration typing:
 react-native link
 ```
 
+
+Clone the mapper project:
+```
+git clone git@github.com:vitorcremonez/react-native-fontastic-icons-mapper.git
+```
+
+Enter into directory:
+```
+cd react-native-fontastic-icons-mapper/
+```
+
+Install mapper's dependencies:
+```
+npm install
+```
 
 Now generate the mapped icons name `JSON` file mapping every single name of your icons to the respective character font.
 
